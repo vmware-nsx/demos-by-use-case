@@ -5,7 +5,7 @@ Total number of curated demos/videos: x
 
 ## Table of Content
 
-* [Multi Cloud Networking](#multi-cloud-networking) (x)
+* [Multi Cloud Networking](#multi-cloud-networking) (7)
 
 * [Security](#security) (x)
 
@@ -27,4 +27,4 @@ VMware NSX Cloud Demo: Single Micro-Segmentation Policy across Hybrid Cloud  |Le
 ## Security
 Title | Description | Link
 ---|---|---
-NSX-T Federation Demo 1: Networking & Security | NSX-T offers the ability to manage and operate simply and centrally Network and Security services with NSX-T Federation. This is done with our new element: NSX-T Global Manager (GM). This first demo will drive you through GM UI where different stretched network and security are configured.| https://youtu.be/Dcx-0lvwvPs
+VMware NSX-T Identity Firewall for VDI and RDSH | The NSX Service-Defined Firewall enables user-based or identity firewalling (IDFW). With IDFW, customers can create firewall rules based on active directory user groups to provide granular per-user access to applications. NSX Identity Firewalling is based on flow context, not based on IP address, and therefore can be applied to both users accessing their apps from their individual VDI desktops or multiple users accessing published desktops or applications through an RDS host. In this demo, we walk through a realistic scenario, and cover the configuration steps to implement user-based application-access policies. | https://youtu.be/94HSHjKqgxo
