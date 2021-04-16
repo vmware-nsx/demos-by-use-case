@@ -1,5 +1,4 @@
-# demos-by-use-case
-Demos by Use Case
+# NSX Demos Organized by Use CAse
 This page is a collection of curated demos covering the 4 key NSX use cases:
 
 Total number of curated demos/videos: x
