@@ -18,4 +18,5 @@ Total number of curated demos/videos: 427
 Title | Description | Link
 ---|---|---
 NSX-T Federation Demo 1: Networking & Security  | NSX-T offers the ability to manage and operate simply and centrally Network and Security services with NSX-T Federation. This is done with our new element: NSX-T Global Manager (GM). This first demo will drive you through GM UI where different stretched network and security are configured.| https://youtu.be/Dcx-0lvwvPs
+NSX-T Federation Demo 2: Disaster Recovery  |NSX-T offers the ability to manage and operate simply and centrally Network and Security services with NSX-T Federation. This is done with our new element: NSX-T Global Manager (GM). This second demo will drive you through Disaster Recovery (DR) use case where 1 Location is lost, and Network and Security services are simply recovered thanks to NSX-T.| https://youtu.be/kuVfCw1q5g8
 
