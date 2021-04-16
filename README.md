@@ -1,7 +1,6 @@
 # NSX Demos Organized by Use Case
-This page is a collection of curated demos covering key NSX use cases:
+This is a collection of curated, recent demos covering key NSX Use Cases:
 
-Total number of curated demos/videos: 24
 
 ## Table of Contents
 
