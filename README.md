@@ -9,7 +9,7 @@ Total number of curated demos/videos: x
 
 * [Security](#security) (7)
 
-* [Networking and Security for Cloud Native Apps](#cloud-native) (x)
+* [Networking and Security for Cloud Native Apps](#Networking and Security for Cloud Native Apps) (x)
 
 * [Automation](#automation) (x)
 
@@ -39,3 +39,5 @@ Security Field Day: Level Up Threat Prevention Inside the Data Center | With the
 Title | Description | Link
 ---|---|---
 Showcasing NSX-T and vSphere with Tanzu  | This demo covers deploying an app on vSphere with Kubernetes, both on a supervisor cluster and a Tanzu Kubernetes Guest Cluster, and how NSX provides networking services.| https://youtu.be/vwaT0583v6E
+Showcase connectivity between standalone Antrea cluster and NSX-T  | This demo showcases the connectivity between an NSX-T infrastructure and a standard Kubernetes cluster with Antrea as the CNI. | https://youtu.be/0oVrOA38Ijk
+
