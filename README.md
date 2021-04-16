@@ -40,6 +40,7 @@ Title | Description | Link
 ---|---|---
 Showcasing NSX-T and vSphere with Tanzu  | This demo covers deploying an app on vSphere with Kubernetes, both on a supervisor cluster and a Tanzu Kubernetes Guest Cluster, and how NSX provides networking services.| https://youtu.be/vwaT0583v6E
 Showcase connectivity between standalone Antrea cluster and NSX-T  | This demo showcases the connectivity between an NSX-T infrastructure and a standard Kubernetes cluster with Antrea as the CNI. | https://youtu.be/0oVrOA38Ijk
+Introduction to Antrea  |An introduction to Project Antrea | https://youtu.be/X9ks1HPyMDo
 
 ## Automation
 Title | Description | Link
