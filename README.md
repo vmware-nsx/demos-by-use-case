@@ -1,17 +1,17 @@
 # NSX Demos Organized by Use Case
-This page is a collection of curated demos covering the 4 key NSX use cases:
+This page is a collection of curated demos covering key NSX use cases:
 
-Total number of curated demos/videos: x
+Total number of curated demos/videos: 24
 
 ## Table of Content
 
-* [Multi Cloud Networking](#multi-cloud-networking) (7)
+* [Multi Cloud Networking](#multi-cloud-networking) (9)
 
-* [Security](#security) (7)
+* [Security](#security) (9)
 
-* [Networking and Security for Cloud Native Apps](#Networking-and-Security-for-Cloud-Native-Apps) (x)
+* [Networking and Security for Cloud Native Apps](#Networking-and-Security-for-Cloud-Native-Apps) (3)
 
-* [Automation](#automation) (x)
+* [Automation](#automation) (3)
 
 ## Multi Cloud Networking
 Title | Description | Link
