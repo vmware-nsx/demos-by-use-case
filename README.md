@@ -15,7 +15,7 @@ Total number of curated demos/videos: 427
 * [Automation](#automation) (42)
 
 ## Multi Cloud Networking
-Title | Description | Related Assets| 
+Title | Description | Link
 ---|---|---
-Horizon Cloud on Microsoft Azure: Technical Deep Dive | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/29461) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2019/ADV1045BE.mp4)
+NSX-T Federation Demo 1: Networking & Security  | NSX-T offers the ability to manage and operate simply and centrally Network and Security services with NSX-T Federation. This is done with our new element: NSX-T Global Manager (GM). This first demo will drive you through GM UI where different stretched network and security are configured. | https://youtu.be/Dcx-0lvwvPs
 
