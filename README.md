@@ -1,5 +1,5 @@
 # NSX Demos Organized by Use Case
-This is a collection of curated, recent demos covering key NSX Use Cases:
+This is a collection of curated, recent demos covering key NSX Use Cases.
 
 
 ## Table of Contents
