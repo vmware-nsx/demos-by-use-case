@@ -3,7 +3,7 @@ This page is a collection of curated demos covering key NSX use cases:
 
 Total number of curated demos/videos: 24
 
-## Table of Content
+## Table of Contents
 
 * [Multi Cloud Networking](#multi-cloud-networking) (9)
 
