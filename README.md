@@ -16,6 +16,6 @@ Total number of curated demos/videos: 427
 
 ## Multi Cloud Networking
 Title | Presenter| Description | Related Assets 
----|---|---|---|---
-ADV1045BE | Horizon Cloud on Microsoft Azure: Technical Deep Dive | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/29461) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2019/ADV1045BE.mp4) 
+---|---|---|---|--- |
+ADV1045BE | Horizon Cloud on Microsoft Azure: Technical Deep Dive | [STREAM](https://videos.vmworld.com/global/2019/videoplayer/29461) | [DOWNLOAD](https://s3.us-east-2.amazonaws.com/vmworld-europe-2019/ADV1045BE.mp4) |
 
