@@ -9,7 +9,7 @@ Total number of curated demos/videos: x
 
 * [Security](#security) (7)
 
-* [Networking and Security fo Cloud Native Apps](#cloud-native) (x)
+* [Networking and Security for Cloud Native Apps](#cloud-native) (x)
 
 * [Automation](#automation) (x)
 
