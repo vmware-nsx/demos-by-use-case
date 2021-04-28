@@ -57,7 +57,7 @@ Deploy 3-Tier App using vSphere and NSX-T Terraform Providers | Deploy a 3-Tier 
 ## Networking
 Title | Description | Link
 ---|---|---
-NSX-T and ECMP   | Everything you need to know about ECMP within NSX-T | https://youtu.be/XdSs-S2a5fc
+NSX-T and ECMP   |  This video teaches you how ECMP can be leveraged within NSX-T. There are multiple layers of ECMP: From the Distributed Router to the Services Router and then from the Service Router to the physical networking fabric. NSX-T offers an optimal way to load balance the networking traffic within the Data Center. We will also present how easy it is to enable ECMP whether you use BGP, OSPF or static routes. | https://youtu.be/XdSs-S2a5fc
 
 
 
