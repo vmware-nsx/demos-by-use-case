@@ -12,7 +12,7 @@ This is a collection of curated, recent demos covering key NSX Use Cases.
 
 * [Automation](#automation) (3)
 
-* [Networking](#networking) (1)
+* [Cloud Scale Networking](#cloud-scale-networking) (1)
 
 ## Multi Cloud Networking
 Title | Description | Link
@@ -54,7 +54,7 @@ Automated NSX-T Upgrade using Ansible   | Automated upgrade of NSX-T using Ansib
 vRealize Automation (vRA) and NSX-T Integration   | vRA and NSX-T Integration (VMworld 2020) Demo showing deploying a 3-Tier app using vRA and NSX-T. The blueprint used in the demo can be found here: https://github.com/vmware-samples/nsx-t/tree/master/vRA  | https://youtu.be/qjpWlqJo2WA
 Deploy 3-Tier App using vSphere and NSX-T Terraform Providers | Deploy a 3-Tier app using vSphere Terraform Provider and NSX-T Terraform Provider  | https://youtu.be/M73Y_KXyFdM
 
-## Networking
+## Cloud Scale Networking
 Title | Description | Link
 ---|---|---
 NSX-T and ECMP   | Everything you need to know about ECMP within NSX-T | https://youtu.be/XdSs-S2a5fc
