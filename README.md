@@ -15,6 +15,9 @@ This is a collection of curated, recent demos covering key NSX Use Cases.
 * [Cloud Scale Networking](#cloud-scale-networking) (1)
 
 ## Multi Cloud Networking
+Here are "Golden demos" you can RUN YOURSELF at customers: https://vault.vmware.com/group/nsx/nsx-golden-demos.
+
+Below are Networking recorded demos you can sent to your customers:
 Title | Description | Link
 ---|---|---
 NSX-T Federation Demo 1: Networking & Security | NSX-T offers the ability to manage and operate simply and centrally Network and Security services with NSX-T Federation. This is done with our new element: NSX-T Global Manager (GM). This first demo will drive you through GM UI where different stretched network and security are configured.| https://youtu.be/Dcx-0lvwvPs
